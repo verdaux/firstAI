@@ -1,0 +1,2 @@
+github_resource:
+  azureOpenAI:https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/openai/azure-ai-openai/src/samples/java/com/azure/ai/openai/auth/
